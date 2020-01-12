@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f32c180-8d51-4f6f-986e-bd6a28553b80" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/125OK.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6164ceebe8f0ac57b59f845d776b07e1809ad0b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2f32c180-8d51-4f6f-986e-bd6a28553b80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\git\125OK.github.io" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -59,7 +57,7 @@
       <workItem from="1578568692687" duration="676000" />
       <workItem from="1578617720805" duration="1838000" />
       <workItem from="1578797197546" duration="1346000" />
-      <workItem from="1578837740557" duration="603000" />
+      <workItem from="1578837740557" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1578367264669</created>
@@ -89,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578568759292</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1578838566570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578838566570</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,14 +106,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1578568758495">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1578838565786">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1578568758495" />
-    <state x="233" y="117" key="Vcs.Push.Dialog.v2" timestamp="1578838542674">
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1578838565786" />
+    <state x="233" y="117" key="Vcs.Push.Dialog.v2" timestamp="1578838581929">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1578838542674" />
+    <state x="233" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1578838581929" />
     <state x="336" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1578797208327">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
